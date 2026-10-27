@@ -1,0 +1,25 @@
+﻿python : test_anger_dominant (test_emotion_detection.TestEmotionDetector.test_anger_dominant)
+At line:1 char:153
++ ... n-detector; python -m unittest test_emotion_detection.py -v 2>&1 | Ou ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_anger_domi...anger_dominant):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+'I am really mad about this' should yield anger as dominant emotion. ... ok
+test_blank_input_returns_none (test_emotion_detection.TestEmotionDetector.test_blank_input_returns_none)
+Blank text input (400 response) should return all None values. ... ok
+test_disgust_dominant (test_emotion_detection.TestEmotionDetector.test_disgust_dominant)
+'I feel disgusted just hearing about this' \u2192 disgust dominant. ... ok
+test_fear_dominant (test_emotion_detection.TestEmotionDetector.test_fear_dominant)
+'I am really afraid that this will happen' \u2192 fear dominant. ... ok
+test_joy_dominant (test_emotion_detection.TestEmotionDetector.test_joy_dominant)
+'I am glad this happened' should yield joy as dominant emotion. ... ok
+test_output_keys_present (test_emotion_detection.TestEmotionDetector.test_output_keys_present)
+Result must always contain all six required keys. ... ok
+test_sadness_dominant (test_emotion_detection.TestEmotionDetector.test_sadness_dominant)
+'I am so sad about this' \u2192 sadness dominant. ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.011s
+
+OK
