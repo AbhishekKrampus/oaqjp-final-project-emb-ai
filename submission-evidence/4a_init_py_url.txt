@@ -1,10 +1,3 @@
-## Task 4 — EmotionDetection/__init__.py Public URL
-
+TASK 4A — EmotionDetection/__init__.py GitHub URL
+===================================================
 https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py
-
-Content of __init__.py:
-"""
-EmotionDetection package initializer.
-Exposes the emotion_detector function at the package level.
-"""
-from .emotion_detection import emotion_detector
