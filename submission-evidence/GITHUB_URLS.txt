@@ -1,0 +1,21 @@
+# GitHub URLs for IBM Emotion Detector Final Project
+# These URLs will be valid after you push the repo to GitHub.
+# See FINAL REPORT for push instructions.
+
+## Repository (to be created by you on GitHub.com):
+https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai
+
+## Task 1 — README.md URL:
+https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/README.md
+
+## Task 4 — __init__.py URL:
+https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py
+
+## Other key files:
+- emotion_detection.py: https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/emotion_detection.py
+- server.py: https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/server.py
+- test_emotion_detection.py: https://github.com/AbhishekKrampus/oaqjp-final-project-emb-ai/blob/main/test_emotion_detection.py
+
+## NOTE: Run the push command after creating the repo on GitHub.com:
+## Go to https://github.com/new -> name it "oaqjp-final-project-emb-ai" -> Public -> NO README
+## Then run: cd C:\Users\KRAMPUS\.gemini\antigravity\scratch\emotion-detector && git push origin main

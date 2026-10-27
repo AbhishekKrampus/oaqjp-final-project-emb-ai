@@ -1,0 +1,5 @@
+﻿=== emotion_detector output format ===
+{'anger': 0.006, 'disgust': 0.002, 'fear': 0.009, 'joy': 0.968, 'sadness': 0.049, 'dominant_emotion': 'joy'}
+
+Keys: ['anger', 'disgust', 'fear', 'joy', 'sadness', 'dominant_emotion']
+Dominant emotion: joy

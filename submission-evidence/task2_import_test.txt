@@ -1,0 +1,7 @@
+﻿=== Importing EmotionDetection package ===
+Import success!
+emotion_detector: <function emotion_detector at 0x000002B573752CA0>
+
+=== Importing emotion_detection module directly ===
+Direct import success!
+Function signature test - module loaded: EmotionDetection.emotion_detection
